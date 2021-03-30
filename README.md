@@ -4,7 +4,7 @@
 
 ### 🚀统计
 
-[![Kongzue's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)](https://github.com/kongzue/github-readme-stats)
+[![Kongzue's GitHub stats](https://github-readme-stats.vercel.app/api?username=kongzue&show_icons=true)](https://github.com/kongzue/)
 
 ### 🌐我的个人网站和博客
 
