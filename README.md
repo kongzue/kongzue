@@ -10,7 +10,7 @@ https://www.kongzue.com
 
 ### 我所擅长的
 
-<img src="https://img.shields.io/badge/Android-Programmer-green?style=flat&logo=appveyor" /><img src="https://img.shields.io/badge/UI-Designer-blue?style=flat&logo=appveyor" />
+<img src="https://img.shields.io/badge/Android-Programmer-green?style=flat&logo=appveyor" />　<img src="https://img.shields.io/badge/UI-Designer-blue?style=flat&logo=appveyor" />
 
 ### 如何与我取得联系
 
