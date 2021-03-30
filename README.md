@@ -8,6 +8,11 @@ https://www.kongzue.com
 
 你可以访问这个网站来了解我做过哪些项目，以及当前在 Github 上开源的这些作品应用于了哪些已经上线的项目。
 
+### 我所擅长的
+
+<img src="https://img.shields.io/badge/Android-Programmer-green?style=flat&logo=appveyor" />
+<img src="https://img.shields.io/badge/UI-Designer-blue?style=flat&logo=appveyor" />
+
 ### 如何与我取得联系
 
 如果你对这些开源的框架有任何疑问或建议，可以直接在库的页面提交 issues，不过因为工作的原因我可能不能及时答复，你可以通过 Q 群：590498789，或者邮件至：myzcxhh@live.cn，我会尽快答复。
