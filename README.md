@@ -14,8 +14,6 @@
 
 <code><img height="20" src="https://raw.githubusercontent.com/kongzue/kongzue/main/res/android.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/kongzue/kongzue/main/res/java.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/kongzue/kongzue/main/res/i_kotlin.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/kongzue/kongzue/main/res/markdown.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/kongzue/kongzue/main/res/csharp.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/kongzue/kongzue/main/res/html.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/kongzue/kongzue/main/res/json.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/kongzue/kongzue/main/res/sql.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/kongzue/kongzue/main/res/css.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/kongzue/kongzue/main/res/material-design.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/kongzue/kongzue/main/res/python.png"></code>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kongzue&layout=compact)](https://github.com/kongzue)
-
 ## 🌐我的个人网站和博客
 
 #### 个人网站 
