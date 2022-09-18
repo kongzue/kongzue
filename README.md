@@ -6,7 +6,7 @@
 
 ## 🚀统计
 
-[![Kongzue's GitHub stats](https://github-readme-stats.vercel.app/api?username=kongzue&show_icons=true)](https://github.com/kongzue/)[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kongzue&locale=zh)](https://git.io/streak-stats)
+[![Kongzue's GitHub stats](https://github-readme-stats.vercel.app/api?username=kongzue&show_icons=true)](https://github.com/kongzue/) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kongzue&locale=zh)](https://git.io/streak-stats)
 
 [![kongzue's github activity graph](https://activity-graph.herokuapp.com/graph?username=kongzue&bg_color=ffffff&color=5194F0&line=5194F0&point=5194F0&area_color=D5E5FA&area=true&hide_border=true)](https://github.com/kongzue)
 
