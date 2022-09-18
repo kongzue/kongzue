@@ -6,6 +6,10 @@
 
 [![Kongzue's GitHub stats](https://github-readme-stats.vercel.app/api?username=kongzue&show_icons=true)](https://github.com/kongzue/)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kongzue&locale=zh)](https://git.io/streak-stats)
+
+[![kongzue's github activity graph](https://activity-graph.herokuapp.com/graph?username=kongzue&bg_color=ffffff&color=5194F0&line=5194F0&point=5194F0&area_color=D5E5FA&area=true&hide_border=true)](https://github.com/kongzue)
+
 ## 🛠️工具语言
 
 <code><img height="20" src="https://raw.githubusercontent.com/kongzue/kongzue/main/res/android.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/kongzue/kongzue/main/res/java.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/kongzue/kongzue/main/res/i_kotlin.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/kongzue/kongzue/main/res/markdown.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/kongzue/kongzue/main/res/csharp.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/kongzue/kongzue/main/res/html.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/kongzue/kongzue/main/res/json.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/kongzue/kongzue/main/res/sql.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/kongzue/kongzue/main/res/css.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/kongzue/kongzue/main/res/material-design.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/kongzue/kongzue/main/res/python.png"></code>
@@ -30,7 +34,7 @@
 
 ## ✔️我所擅长的
 
-<img src="https://img.shields.io/badge/Android-Programmer-green?style=flat&logo=appveyor" />　<img src="https://img.shields.io/badge/UI-Designer-blue?style=flat&logo=appveyor" />
+<img src="https://img.shields.io/badge/Android-Programmer-green?style=for-the-badge&logo=android" />　<img src="https://img.shields.io/badge/UI-Designer-blue?style=for-the-badge&logo=Material-Design" />　
 
 ## 📧如何与我取得联系
 
