@@ -18,17 +18,17 @@
 
 #### 个人网站 
 
->  ➡️[kongzue.com](https://www.kongzue.com)
+>  **➡️[kongzue.com](https://www.kongzue.com)**
 >  
 >  你可以访问这个网站来了解我做过哪些项目，以及当前在 Github 上开源的这些作品应用于了哪些已经上线的项目。 
 
 #### 专栏博客 
 
-> ➡️[Android开发中遇到的那些坑](https://xiaozhuanlan.com/kongzue) 
+> **➡️[Android开发中遇到的那些坑](https://xiaozhuanlan.com/kongzue)**
 >  
 > 小专栏，技术干货分享，包含应用层、硬件相关开发和网络相关开发中常见/非常见错误，排查办法及原因分析，以及一些基础介绍文章 
 
-> ➡️[大话安卓](https://xiaozhuanlan.com/dahuaandroid) 
+> **➡️[大话安卓](https://xiaozhuanlan.com/dahuaandroid)**
 >  
 > 大话安卓群友文章分享，包含一些技术讨论、新框架介绍 
 
